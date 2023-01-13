@@ -23,6 +23,7 @@ jobs:
       - name: schmiddim-wget-unzip
         uses: schmiddim/action-wget-unzip@v2
         with:
+          args: --user-agent="Mozilla"
           url: 'https://www.fda.gov/media/76860/download'
           destination: current-release
         
