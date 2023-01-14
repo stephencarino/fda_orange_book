@@ -22,13 +22,20 @@ jobs:
       
       - name: unzip files and dump them to ./current-release
         run: unzip -jo download.zip -d ./current-release     
-        
-      # downloads and unzips FDA orange book
-      #- name: schmiddim-wget-unzip
-      #  uses: schmiddim/action-wget-unzip@v2
-      #  with:
-      #    args: --user-agent="Mozilla"
-      #    url: 'https://www.fda.gov/media/76860/download'
-      #    destination: current-release
       
+      #upload
+      - uses: actions/upload-artifact@v3
+        with:
+          name: Orange Book Files
+          path: ./current-release/
+        
+      #push
+      - name: push files to repo
+        git config user.name ${{ secrets.GH_USER }}
+        git config user.email "${{ secrets.GH_MAIL }}"
+        git add current-release
+        git add -A
+        git commit -m "updated files"
+        git push
+        
         
