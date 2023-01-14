@@ -25,6 +25,7 @@ jobs:
         run: unzip -jo download.zip -d ./current-release     
             
       #push
+      - uses: actions/checkout@v3.3.0
       - name: push files to repo
         run: |
           git config --global user.name 'github-actions'
