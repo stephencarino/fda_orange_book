@@ -16,14 +16,19 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # download and unzip a file
+      #downloads the current FDA Orange Book
+      - name download zip file
+        run: wget -O download.zip --user-agent='Mozilla' 'https://www.fda.gov/media/76860/download'
       
-
+      - name unzip files and dump them to ./current-release
+        run: unzip -jo download.zip -d ./current-release     
+        
       # downloads and unzips FDA orange book
-      - name: schmiddim-wget-unzip
-        uses: schmiddim/action-wget-unzip@v2
-        with:
-          args: --user-agent="Mozilla"
-          url: 'https://www.fda.gov/media/76860/download'
-          destination: current-release
+      #- name: schmiddim-wget-unzip
+      #  uses: schmiddim/action-wget-unzip@v2
+      #  with:
+      #    args: --user-agent="Mozilla"
+      #    url: 'https://www.fda.gov/media/76860/download'
+      #    destination: current-release
+      
         
