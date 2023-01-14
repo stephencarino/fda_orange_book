@@ -27,11 +27,11 @@ jobs:
       #push
       - name: push files to repo
         run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email "${{secrets.GH_MAIL}}"
-        git add current-release
-        git add -A
-        git commit -m "updated files"
-        git push
+          git config --global user.name 'github-actions'
+          git config --global user.email "${{secrets.GH_MAIL}}"
+          git add current-release
+          git add -A
+          git commit -m "updated files"
+          git push
         
         
