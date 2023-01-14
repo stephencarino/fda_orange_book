@@ -20,20 +20,15 @@ jobs:
       - name: download zip file
         run: wget -O download.zip --user-agent='Mozilla' 'https://www.fda.gov/media/76860/download'
       
+      #unzip
       - name: unzip files and dump them to ./current-release
         run: unzip -jo download.zip -d ./current-release     
-      
-      #upload
-      - uses: actions/upload-artifact@v3
-        with:
-          name: Orange Book Files
-          path: ./current-release/
-        
+            
       #push
       - name: push files to repo
         run: |
-        git config user.name ${{ secrets.GH_USER }}
-        git config user.email "${{ secrets.GH_MAIL }}"
+        git config --global user.name 'github-actions'
+        git config --global user.email "${{secrets.GH_MAIL}}"
         git add current-release
         git add -A
         git commit -m "updated files"
