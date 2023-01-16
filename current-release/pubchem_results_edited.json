@@ -8794,21 +8794,21 @@
     },
     {
         "Name": "SULFACETAMIDE",
-        "CID": -1,
-        "URL": "",
+        "CID": 5320,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5320",
         "AutoFound": false,
         "Hit": 1,
-        "ValidHit": false,
-        "Comments": ""
+        "ValidHit": true,
+        "Comments": "manually entered"
     },
     {
         "Name": "SULFABENZAMIDE",
-        "CID": -1,
-        "URL": "",
+        "CID": 5319,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5319",
         "AutoFound": false,
         "Hit": 1,
-        "ValidHit": false,
-        "Comments": ""
+        "ValidHit": true,
+        "Comments": "manually entered"
     },
     {
         "Name": "ESTROPIPATE",
@@ -9015,7 +9015,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "no CID in PubChem"
     },
     {
         "Name": "FISH OIL",
@@ -9024,7 +9024,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "no CID in PubChem"
     },
     {
         "Name": "MEDIUM CHAIN TRIGLYCERIDES",
@@ -9033,7 +9033,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "no CID in PubChem"
     },
     {
         "Name": "ROLAPITANT HYDROCHLORIDE",
@@ -9465,7 +9465,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "no CID in PubChem"
     },
     {
         "Name": "BISACODYL",
@@ -9888,7 +9888,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "no CID in PubChem"
     },
     {
         "Name": "SECRETIN SYNTHETIC PORCINE",
@@ -9897,7 +9897,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "no CID in PubChem"
     },
     {
         "Name": "FERRIC PYROPHOSPHATE CITRATE",
@@ -10405,12 +10405,12 @@
     },
     {
         "Name": "EXENATIDE SYNTHETIC",
-        "CID": -1,
-        "URL": "",
+        "CID": 45588096,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/45588096",
         "AutoFound": false,
         "Hit": 1,
-        "ValidHit": false,
-        "Comments": ""
+        "ValidHit": true,
+        "Comments": "manually entered"
     },
     {
         "Name": "RISPERIDONE",
