@@ -3,10 +3,12 @@ import sys
 import getopt
 import requests as rq
 import time
+import os
 
 inputFile = ''
 outFile = ''
 data = []
+
 
 def get_pubchem_data(attrib,data):
     unique_list =[]
@@ -60,9 +62,79 @@ def get_pubchem_data(attrib,data):
         time.sleep(0.5)
 
     #write to file
-    with open("./current-release/pubchem_out.json", "w") as outfile:
+    with open(pubchem_file, "w") as outfile:
         json.dump(pubchem_data, outfile)
     
+
+
+def crosscheck_pubchem_data():
+    pubchem_file = './current-release/pubchem_out.json'
+    pubchem_results = './current-release/pubchem_results.json'
+    
+    data=[]
+    # Open JSON file
+    iFile = open(pubchem_file)
+
+    # returns JSON object as a dictionary
+    pubchem_data = json.load(iFile)
+
+    #check for CID
+    for item in pubchem_data:
+        i = 1
+        try:
+            #iterate in case there are multiple search results
+
+            for entry in item["PropertyTable"]["Properties"]:
+                mol_data={}
+                mol_data["Name"]=item["Name"]
+                mol_data["CID"] = entry["CID"]
+                mol_data["URL"] = "https://pubchem.ncbi.nlm.nih.gov/compound/" + str(entry["CID"])
+                mol_data["AutoFound"] = True #entry was found in name search
+                mol_data["Hit"] = i; i+=1
+                mol_data["ValidHit"] = True #flag if useable in the analysis
+                data.append(mol_data)
+        except:
+            mol_data={}
+            mol_data["Name"]=item["Name"]
+            mol_data["CID"] = -1
+            mol_data["URL"] = ""
+            mol_data["AutoFound"] = False
+            mol_data["Hit"] = i
+            mol_data["ValidHit"] = False #flag if useable in the analysis
+            data.append(mol_data)
+       
+    #write to file
+    with open(pubchem_results, "w") as oFile:
+        json.dump(data, oFile)
+            
+
+def clean_pubchem_data():
+    pubchem_file = './current-release/pubchem_out.json'
+    data = []
+    # Open JSON file
+    iFile = open(pubchem_file)
+    # returns JSON object as a dictionary
+    pubchem_data = json.load(iFile)
+
+    #flatten
+    for item in pubchem_data:
+        for entry in item["PropertyTable"]["Properties"]:
+            mol_data = entry
+        mol_data["Name"]=item["Name"]
+        print(mol_data["Name"])
+        
+        data.append(mol_data)
+
+        pubchem_data = json.dumps(data)
+    
+    #print(pubchem_data)
+    
+    #write to file
+    with open(pubchem_file, "w") as oFile:
+        json.dump(pubchem_data, oFile)
+            
+    
+
 
 def process_file (_inputFile, _outFile):
 
@@ -107,6 +179,8 @@ def main(argv):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
-    process_file(inputFile, outFile)
-    get_pubchem_data('Ingredient',data)
+    #main(sys.argv[1:])
+    #process_file(inputFile, outFile)
+    #get_pubchem_data('Ingredient',data)
+    #clean_pubchem_data()
+    crosscheck_pubchem_data()
