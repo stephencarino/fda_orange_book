@@ -8785,12 +8785,12 @@
     },
     {
         "Name": "SULFATHIAZOLE",
-        "CID": -1,
-        "URL": "",
+        "CID": 5340,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5340",
         "AutoFound": false,
         "Hit": 1,
-        "ValidHit": false,
-        "Comments": ""
+        "ValidHit": true,
+        "Comments": "manually entered"
     },
     {
         "Name": "SULFACETAMIDE",
