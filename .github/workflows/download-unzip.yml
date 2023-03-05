@@ -28,7 +28,7 @@ jobs:
       
       #unzip Orange Book
       - name: unzip files and dump them to their respective folders
-        run: unzip -jo ./current_release/download.zip -d ./current_release/orange_book
+        run: unzip -jo ./current_release/orange_book.zip -d ./current_release/orange_book
         
       #unzip UNII data
       - name: unzip files and dump them to their respective folders
