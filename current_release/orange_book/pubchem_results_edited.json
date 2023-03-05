@@ -2625,7 +2625,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "entries for individual componenents are available"
     },
     {
         "Name": "AMPICILLIN TRIHYDRATE",
@@ -3192,7 +3192,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "entries for individual componenents are available"
     },
     {
         "Name": "CEFADROXIL HEMIHYDRATE",
@@ -8781,7 +8781,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "entries for individual componenents are available"
     },
     {
         "Name": "SULFATHIAZOLE",
@@ -8839,12 +8839,12 @@
     },
     {
         "Name": "BACITRACIN",
-        "CID": -1,
-        "URL": "",
+        "CID": 439542,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/439542",
         "AutoFound": false,
         "Hit": 1,
-        "ValidHit": false,
-        "Comments": ""
+        "ValidHit": true,
+        "Comments": "manually entered"
     },
     {
         "Name": "KETOTIFEN FUMARATE",
@@ -8952,7 +8952,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "not a pure substance"
     },
     {
         "Name": "AMINO ACIDS",
@@ -8961,7 +8961,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "not a pure substance"
     },
     {
         "Name": "CALCIUM CHLORIDE",
@@ -9015,7 +9015,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": "no CID in PubChem"
+        "Comments": "not a pure substance"
     },
     {
         "Name": "FISH OIL",
@@ -9024,7 +9024,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": "no CID in PubChem"
+        "Comments": "not a pure substance"
     },
     {
         "Name": "MEDIUM CHAIN TRIGLYCERIDES",
@@ -9033,7 +9033,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": "no CID in PubChem"
+        "Comments": "not a pure substance"
     },
     {
         "Name": "ROLAPITANT HYDROCHLORIDE",
@@ -9892,12 +9892,12 @@
     },
     {
         "Name": "SECRETIN SYNTHETIC PORCINE",
-        "CID": -1,
+        "CID": 16158472,
         "URL": "",
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": "no CID in PubChem"
+        "Comments": "manually entered"
     },
     {
         "Name": "FERRIC PYROPHOSPHATE CITRATE",
@@ -10509,7 +10509,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "not a pure substance"
     },
     {
         "Name": "NITAZOXANIDE",
@@ -10855,12 +10855,12 @@
     },
     {
         "Name": "SODIUM ZIRCONIUM CYCLOSILICATE",
-        "CID": -1,
-        "URL": "",
+        "CID": 155804812,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/155804812",
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "manually entered"
     },
     {
         "Name": "SODIUM PHENYLBUTYRATE",
@@ -12034,12 +12034,12 @@
     },
     {
         "Name": "TECHNETIUM TC-99M MEDRONATE KIT",
-        "CID": -1,
-        "URL": "",
+        "CID": 9838324,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9838324",
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "manually entered"
     },
     {
         "Name": "AMINOCAPROIC ACID",
@@ -12156,7 +12156,7 @@
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "not a pure substance"
     },
     {
         "Name": "MAGNESIUM ACETATE",
@@ -12277,12 +12277,12 @@
     },
     {
         "Name": "TECHNETIUM TC-99M PENTETATE KIT",
-        "CID": -1,
-        "URL": "",
+        "CID": 73415750,
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/#query=TECHNETIUM%20TC-99M%20PENTETATE",
         "AutoFound": false,
         "Hit": 1,
         "ValidHit": false,
-        "Comments": ""
+        "Comments": "manually entered"
     },
     {
         "Name": "CEFAZOLIN SODIUM",

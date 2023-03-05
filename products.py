@@ -92,6 +92,7 @@ def crosscheck_pubchem_data():
                 mol_data["AutoFound"] = True #entry was found in name search
                 mol_data["Hit"] = i; i+=1
                 mol_data["ValidHit"] = True #flag if useable in the analysis
+                mol_data["Comments"] =""
                 data.append(mol_data)
         except:
             mol_data={}
@@ -101,6 +102,7 @@ def crosscheck_pubchem_data():
             mol_data["AutoFound"] = False
             mol_data["Hit"] = i
             mol_data["ValidHit"] = False #flag if useable in the analysis
+            mol_data["Comments"]=""
             data.append(mol_data)
        
     #write to file
