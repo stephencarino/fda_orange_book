@@ -19,15 +19,25 @@ jobs:
       - uses: actions/checkout@v3.3.0
       
       #downloads the current FDA Orange Book
-      - name: download zip file
+      - name: download Orange Book zip file
         run: wget -O current_release/orange_book.zip --user-agent='Mozilla' 'https://www.fda.gov/media/76860/download'
+      
+      #downloads the current FDA UNII Data
+      - name: download UNII data zip file
         run: wget -O current_release/UNII_Data.zip --user-agent='Mozilla' 'https://precision.fda.gov/uniisearch/archive/latest/UNII_Data.zip'
       
-      #unzip
+      #unzip Orange Book
       - name: unzip files and dump them to their respective folders
         run: unzip -jo current_release/download.zip -d ./current_release/orange_book
+        
+      #unzip UNII data
+      - name: unzip files and dump them to their respective folders
         run: unzip -jo current_release/UNII_Data.zip -d ./current_release/unii
-            
+      
+      #rename UNII data
+      - name: rename UNII_Records_ddmmmyyyy.txt
+        run: mv ./current_release/unii/UNII*.txt ./current_release/unii/unii_data.txt
+      
       #push
       - name: push files to repo
         run: |
