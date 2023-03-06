@@ -1,90 +1,6 @@
 [
     {
         "Appl_Type": "N",
-        "Appl_No": "011366",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-96",
-        "Exclusivity_Date": "Aug 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "011",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "010",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "009",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "008",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "007",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "006",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "005",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "004",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "003",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "020287",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "020819",
         "Product_No": "003",
         "Exclusivity_Code": "ODE*",
@@ -141,20 +57,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021928",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-237",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021928",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-237",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "021986",
         "Product_No": "006",
         "Exclusivity_Code": "ODE-164",
@@ -241,13 +143,6 @@
         "Appl_Type": "N",
         "Appl_No": "021995",
         "Product_No": "003",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021995",
-        "Product_No": "003",
         "Exclusivity_Code": "M-187",
         "Exclusivity_Date": "Dec 4, 2023"
     },
@@ -255,22 +150,8 @@
         "Appl_Type": "N",
         "Appl_No": "021995",
         "Product_No": "002",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021995",
-        "Product_No": "002",
         "Exclusivity_Code": "M-187",
         "Exclusivity_Date": "Dec 4, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021995",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
     },
     {
         "Appl_Type": "N",
@@ -324,23 +205,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "022044",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022044",
         "Product_No": "001",
         "Exclusivity_Code": "M-187",
         "Exclusivity_Date": "Dec 4, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022044",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
     },
     {
         "Appl_Type": "N",
@@ -435,59 +302,38 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021083",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-92",
-        "Exclusivity_Date": "May 28, 2022"
+        "Appl_No": "021038",
+        "Product_No": "005",
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021087",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-251",
-        "Exclusivity_Date": "Aug 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021087",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-251",
-        "Exclusivity_Date": "Aug 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021087",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-251",
-        "Exclusivity_Date": "Aug 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021110",
+        "Appl_No": "021038",
         "Product_No": "004",
-        "Exclusivity_Code": "ODE-92",
-        "Exclusivity_Date": "May 28, 2022"
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021110",
+        "Appl_No": "021038",
         "Product_No": "003",
-        "Exclusivity_Code": "ODE-92",
-        "Exclusivity_Date": "May 28, 2022"
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021110",
+        "Appl_No": "021038",
         "Product_No": "002",
-        "Exclusivity_Code": "ODE-92",
-        "Exclusivity_Date": "May 28, 2022"
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021110",
+        "Appl_No": "021038",
         "Product_No": "001",
-        "Exclusivity_Code": "ODE-92",
-        "Exclusivity_Date": "May 28, 2022"
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
@@ -505,20 +351,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021246",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-251",
-        "Exclusivity_Date": "Aug 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021246",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-251",
-        "Exclusivity_Date": "Aug 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "021248",
         "Product_No": "002",
         "Exclusivity_Code": "ODE-167",
@@ -530,27 +362,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-167",
         "Exclusivity_Date": "Jan 12, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021266",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jan 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021266",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jan 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021267",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jan 29, 2022"
     },
     {
         "Appl_Type": "N",
@@ -638,76 +449,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "008",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "007",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "006",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "005",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "004",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "003",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021506",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-821",
-        "Exclusivity_Date": "Dec 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021506",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-821",
-        "Exclusivity_Date": "Dec 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "021606",
         "Product_No": "003",
         "Exclusivity_Code": "ODE-125",
@@ -726,27 +467,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-125",
         "Exclusivity_Date": "Oct 18, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021611",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-14",
-        "Exclusivity_Date": "Oct 25, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021611",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-14",
-        "Exclusivity_Date": "Oct 25, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021630",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jan 29, 2022"
     },
     {
         "Appl_Type": "N",
@@ -761,13 +481,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Sep 22, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021660",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-14",
-        "Exclusivity_Date": "Dec 6, 2022"
     },
     {
         "Appl_Type": "N",
@@ -801,29 +514,8 @@
         "Appl_Type": "N",
         "Appl_No": "021880",
         "Product_No": "006",
-        "Exclusivity_Code": "ODE-88",
-        "Exclusivity_Date": "Feb 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "006",
         "Exclusivity_Code": "ODE-131",
         "Exclusivity_Date": "Feb 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "006",
-        "Exclusivity_Code": "I-796",
-        "Exclusivity_Date": "May 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "006",
-        "Exclusivity_Code": "I-797",
-        "Exclusivity_Date": "May 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -843,29 +535,8 @@
         "Appl_Type": "N",
         "Appl_No": "021880",
         "Product_No": "005",
-        "Exclusivity_Code": "ODE-88",
-        "Exclusivity_Date": "Feb 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "005",
         "Exclusivity_Code": "ODE-131",
         "Exclusivity_Date": "Feb 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "005",
-        "Exclusivity_Code": "I-796",
-        "Exclusivity_Date": "May 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "005",
-        "Exclusivity_Code": "I-797",
-        "Exclusivity_Date": "May 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -885,29 +556,8 @@
         "Appl_Type": "N",
         "Appl_No": "021880",
         "Product_No": "004",
-        "Exclusivity_Code": "ODE-88",
-        "Exclusivity_Date": "Feb 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "004",
         "Exclusivity_Code": "ODE-131",
         "Exclusivity_Date": "Feb 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "004",
-        "Exclusivity_Code": "I-796",
-        "Exclusivity_Date": "May 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "004",
-        "Exclusivity_Code": "I-797",
-        "Exclusivity_Date": "May 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -927,29 +577,8 @@
         "Appl_Type": "N",
         "Appl_No": "021880",
         "Product_No": "003",
-        "Exclusivity_Code": "ODE-88",
-        "Exclusivity_Date": "Feb 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "003",
         "Exclusivity_Code": "ODE-131",
         "Exclusivity_Date": "Feb 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-797",
-        "Exclusivity_Date": "May 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-796",
-        "Exclusivity_Date": "May 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -969,29 +598,8 @@
         "Appl_Type": "N",
         "Appl_No": "021880",
         "Product_No": "002",
-        "Exclusivity_Code": "ODE-88",
-        "Exclusivity_Date": "Feb 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-131",
         "Exclusivity_Date": "Feb 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-797",
-        "Exclusivity_Date": "May 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-796",
-        "Exclusivity_Date": "May 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1011,29 +619,8 @@
         "Appl_Type": "N",
         "Appl_No": "021880",
         "Product_No": "001",
-        "Exclusivity_Code": "ODE-88",
-        "Exclusivity_Date": "Feb 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-131",
         "Exclusivity_Date": "Feb 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-796",
-        "Exclusivity_Date": "May 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021880",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-797",
-        "Exclusivity_Date": "May 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1048,13 +635,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-245",
         "Exclusivity_Date": "May 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021882",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1067,13 +647,6 @@
         "Appl_Type": "N",
         "Appl_No": "021882",
         "Product_No": "002",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021882",
-        "Product_No": "002",
         "Exclusivity_Code": "M-263",
         "Exclusivity_Date": "Jul 23, 2023"
     },
@@ -1081,22 +654,8 @@
         "Appl_Type": "N",
         "Appl_No": "021882",
         "Product_No": "001",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021882",
-        "Product_No": "001",
         "Exclusivity_Code": "M-263",
         "Exclusivity_Date": "Jul 23, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022185",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jul 25, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1122,23 +681,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "022200",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-240",
-        "Exclusivity_Date": "Feb 15, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022200",
         "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Jul 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022200",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-240",
-        "Exclusivity_Date": "Feb 15, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1163,34 +708,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "022249",
-        "Product_No": "004",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Dec 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022249",
-        "Product_No": "003",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Dec 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022249",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Dec 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022249",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Dec 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "022253",
         "Product_No": "004",
         "Exclusivity_Code": "I-878",
@@ -1345,13 +862,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "022341",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jun 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "022362",
         "Product_No": "002",
         "Exclusivity_Code": "M-232",
@@ -1363,27 +873,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "M-232",
         "Exclusivity_Date": "Oct 20, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022363",
-        "Product_No": "003",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022363",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022363",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 16, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1410,13 +899,6 @@
         "Appl_Type": "N",
         "Appl_No": "022406",
         "Product_No": "004",
-        "Exclusivity_Code": "I-810",
-        "Exclusivity_Date": "Oct 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022406",
-        "Product_No": "004",
         "Exclusivity_Code": "I-867",
         "Exclusivity_Date": "Aug 23, 2024"
     },
@@ -1431,13 +913,6 @@
         "Appl_Type": "N",
         "Appl_No": "022406",
         "Product_No": "003",
-        "Exclusivity_Code": "I-810",
-        "Exclusivity_Date": "Oct 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022406",
-        "Product_No": "003",
         "Exclusivity_Code": "I-867",
         "Exclusivity_Date": "Aug 23, 2024"
     },
@@ -1452,13 +927,6 @@
         "Appl_Type": "N",
         "Appl_No": "022406",
         "Product_No": "002",
-        "Exclusivity_Code": "I-810",
-        "Exclusivity_Date": "Oct 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022406",
-        "Product_No": "002",
         "Exclusivity_Code": "I-867",
         "Exclusivity_Date": "Aug 23, 2024"
     },
@@ -1468,13 +936,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "M-284",
         "Exclusivity_Date": "Mar 10, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022406",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-810",
-        "Exclusivity_Date": "Oct 11, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1548,13 +1009,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "022488",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "022496",
         "Product_No": "002",
         "Exclusivity_Code": "NPP",
@@ -1587,13 +1041,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "I-862",
         "Exclusivity_Date": "Jun 21, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022518",
-        "Product_No": "003",
-        "Exclusivity_Code": "NS",
-        "Exclusivity_Date": "Aug 12, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1601,20 +1048,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-345",
         "Exclusivity_Date": "Jan 22, 2028"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022563",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "May 6, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022563",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Nov 5, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1751,48 +1184,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "201277",
-        "Product_No": "005",
-        "Exclusivity_Code": "I-801",
-        "Exclusivity_Date": "Jul 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201277",
-        "Product_No": "004",
-        "Exclusivity_Code": "I-801",
-        "Exclusivity_Date": "Jul 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201277",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-801",
-        "Exclusivity_Date": "Jul 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201277",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-801",
-        "Exclusivity_Date": "Jul 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201277",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-801",
-        "Exclusivity_Date": "Jul 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201277",
-        "Product_No": "006",
-        "Exclusivity_Code": "I-801",
-        "Exclusivity_Date": "Jul 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "201280",
         "Product_No": "001",
         "Exclusivity_Code": "M-252",
@@ -1800,24 +1191,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "201280",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "201281",
         "Product_No": "003",
         "Exclusivity_Code": "M-252",
         "Exclusivity_Date": "Mar 30, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201281",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1829,23 +1206,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "201281",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201281",
         "Product_No": "001",
         "Exclusivity_Code": "M-252",
         "Exclusivity_Date": "Mar 30, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "201281",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1874,20 +1237,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-367",
         "Exclusivity_Date": "Jan 24, 2027"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "200327",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Sep 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "200327",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Sep 13, 2022"
     },
     {
         "Appl_Type": "N",
@@ -1940,13 +1289,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "203094",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Aug 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "205436",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
@@ -1972,34 +1314,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Jun 19, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "002",
-        "Exclusivity_Code": "D-177",
-        "Exclusivity_Date": "Nov 15, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 28, 2026"
     },
     {
         "Appl_Type": "N",
@@ -2014,34 +1328,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-136",
         "Exclusivity_Date": "Apr 7, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "001",
-        "Exclusivity_Code": "D-177",
-        "Exclusivity_Date": "Nov 15, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205834",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 28, 2026"
     },
     {
         "Appl_Type": "N",
@@ -2070,13 +1356,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE*",
         "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205641",
-        "Product_No": "003",
-        "Exclusivity_Code": "NS",
-        "Exclusivity_Date": "Aug 12, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2222,13 +1501,6 @@
         "Appl_Type": "N",
         "Appl_No": "202806",
         "Product_No": "002",
-        "Exclusivity_Code": "M-246",
-        "Exclusivity_Date": "Oct 6, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202806",
-        "Product_No": "002",
         "Exclusivity_Code": "I-894",
         "Exclusivity_Date": "Jun 22, 2025"
     },
@@ -2252,13 +1524,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-147",
         "Exclusivity_Date": "Jun 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202806",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-246",
-        "Exclusivity_Date": "Oct 6, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2369,13 +1634,6 @@
         "Appl_Type": "N",
         "Appl_No": "203389",
         "Product_No": "002",
-        "Exclusivity_Code": "ODE-97",
-        "Exclusivity_Date": "Aug 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203389",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-162",
         "Exclusivity_Date": "Dec 22, 2024"
     },
@@ -2383,22 +1641,8 @@
         "Appl_Type": "N",
         "Appl_No": "203389",
         "Product_No": "001",
-        "Exclusivity_Code": "ODE-97",
-        "Exclusivity_Date": "Aug 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203389",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-162",
         "Exclusivity_Date": "Dec 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203415",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-808",
-        "Exclusivity_Date": "Dec 16, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2434,13 +1678,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "I-849",
         "Exclusivity_Date": "Dec 18, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203505",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-793",
-        "Exclusivity_Date": "Jan 25, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2556,20 +1793,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "204042",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-809",
-        "Exclusivity_Date": "Sep 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204042",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-809",
-        "Exclusivity_Date": "Sep 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "204063",
         "Product_No": "002",
         "Exclusivity_Code": "M-260",
@@ -2607,13 +1830,6 @@
         "Appl_Type": "N",
         "Appl_No": "204114",
         "Product_No": "003",
-        "Exclusivity_Code": "M-246",
-        "Exclusivity_Date": "Oct 6, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204114",
-        "Product_No": "003",
         "Exclusivity_Code": "I-895",
         "Exclusivity_Date": "Jun 22, 2025"
     },
@@ -2642,13 +1858,6 @@
         "Appl_Type": "N",
         "Appl_No": "204114",
         "Product_No": "002",
-        "Exclusivity_Code": "M-246",
-        "Exclusivity_Date": "Oct 6, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204114",
-        "Product_No": "002",
         "Exclusivity_Code": "I-895",
         "Exclusivity_Date": "Jun 22, 2025"
     },
@@ -2672,13 +1881,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-148",
         "Exclusivity_Date": "Jun 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204114",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-246",
-        "Exclusivity_Date": "Oct 6, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2705,13 +1907,6 @@
         "Appl_Type": "N",
         "Appl_No": "204384",
         "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Aug 9, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204384",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-307",
         "Exclusivity_Date": "May 27, 2027"
     },
@@ -2810,22 +2005,8 @@
         "Appl_Type": "N",
         "Appl_No": "203496",
         "Product_No": "005",
-        "Exclusivity_Code": "I-820",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203496",
-        "Product_No": "005",
         "Exclusivity_Code": "ODE-272",
         "Exclusivity_Date": "Oct 18, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203496",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-820",
-        "Exclusivity_Date": "Oct 18, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2838,22 +2019,8 @@
         "Appl_Type": "N",
         "Appl_No": "203496",
         "Product_No": "002",
-        "Exclusivity_Code": "I-820",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203496",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-272",
         "Exclusivity_Date": "Oct 18, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203496",
-        "Product_No": "004",
-        "Exclusivity_Code": "I-820",
-        "Exclusivity_Date": "Oct 18, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2868,41 +2035,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-272",
         "Exclusivity_Date": "Oct 18, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203496",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-820",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204168",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-249",
-        "Exclusivity_Date": "Oct 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204168",
-        "Product_No": "004",
-        "Exclusivity_Code": "M-249",
-        "Exclusivity_Date": "Oct 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204168",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-249",
-        "Exclusivity_Date": "Oct 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "204168",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-249",
-        "Exclusivity_Date": "Oct 7, 2022"
     },
     {
         "Appl_Type": "N",
@@ -2929,13 +2061,6 @@
         "Appl_Type": "N",
         "Appl_No": "205437",
         "Product_No": "003",
-        "Exclusivity_Code": "I-803",
-        "Exclusivity_Date": "Jul 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205437",
-        "Product_No": "003",
         "Exclusivity_Code": "ODE-248",
         "Exclusivity_Date": "Jul 19, 2026"
     },
@@ -2957,13 +2082,6 @@
         "Appl_Type": "N",
         "Appl_No": "205437",
         "Product_No": "002",
-        "Exclusivity_Code": "I-803",
-        "Exclusivity_Date": "Jul 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205437",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-248",
         "Exclusivity_Date": "Jul 19, 2026"
     },
@@ -2980,13 +2098,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "I-884",
         "Exclusivity_Date": "Dec 20, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205437",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-803",
-        "Exclusivity_Date": "Jul 19, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3034,8 +2145,29 @@
         "Appl_Type": "N",
         "Appl_No": "205552",
         "Product_No": "002",
-        "Exclusivity_Code": "M-236",
-        "Exclusivity_Date": "Jan 25, 2022"
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 2, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205552",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Mar 4, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205552",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "May 6, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205552",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Jan 18, 2024"
     },
     {
         "Appl_Type": "N",
@@ -3043,13 +2175,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Aug 24, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205552",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-86",
-        "Exclusivity_Date": "Jan 29, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3083,92 +2208,8 @@
         "Appl_Type": "N",
         "Appl_No": "205552",
         "Product_No": "001",
-        "Exclusivity_Code": "M-236",
-        "Exclusivity_Date": "Jan 25, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205552",
-        "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Aug 24, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "005",
-        "Exclusivity_Code": "I-841",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "005",
-        "Exclusivity_Code": "M-238",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-841",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-238",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "004",
-        "Exclusivity_Code": "I-841",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "004",
-        "Exclusivity_Code": "M-238",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-841",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-238",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-841",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205649",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-238",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203975",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-245",
-        "Exclusivity_Date": "Jun 9, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3188,13 +2229,6 @@
         "Appl_Type": "N",
         "Appl_No": "202293",
         "Product_No": "002",
-        "Exclusivity_Code": "M-238",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202293",
-        "Product_No": "002",
         "Exclusivity_Code": "I-834",
         "Exclusivity_Date": "May 5, 2023"
     },
@@ -3204,20 +2238,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "I-857",
         "Exclusivity_Date": "Apr 30, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202293",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-841",
-        "Exclusivity_Date": "Oct 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202293",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-238",
-        "Exclusivity_Date": "Feb 22, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3232,13 +2252,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "I-857",
         "Exclusivity_Date": "Apr 30, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202293",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-841",
-        "Exclusivity_Date": "Oct 18, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3256,31 +2269,17 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "202057",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-819",
-        "Exclusivity_Date": "Dec 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202057",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-819",
-        "Exclusivity_Date": "Dec 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202192",
-        "Product_No": "005",
-        "Exclusivity_Code": "I-799",
-        "Exclusivity_Date": "May 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "202192",
         "Product_No": "005",
         "Exclusivity_Code": "ODE-238",
         "Exclusivity_Date": "May 24, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "202192",
+        "Product_No": "005",
+        "Exclusivity_Code": "M-285",
+        "Exclusivity_Date": "Dec 19, 2025"
     },
     {
         "Appl_Type": "N",
@@ -3293,15 +2292,15 @@
         "Appl_Type": "N",
         "Appl_No": "202192",
         "Product_No": "004",
-        "Exclusivity_Code": "I-799",
-        "Exclusivity_Date": "May 24, 2022"
+        "Exclusivity_Code": "ODE-238",
+        "Exclusivity_Date": "May 24, 2026"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "202192",
         "Product_No": "004",
-        "Exclusivity_Code": "ODE-238",
-        "Exclusivity_Date": "May 24, 2026"
+        "Exclusivity_Code": "M-285",
+        "Exclusivity_Date": "Dec 19, 2025"
     },
     {
         "Appl_Type": "N",
@@ -3314,13 +2313,6 @@
         "Appl_Type": "N",
         "Appl_No": "202192",
         "Product_No": "003",
-        "Exclusivity_Code": "I-799",
-        "Exclusivity_Date": "May 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202192",
-        "Product_No": "003",
         "Exclusivity_Code": "ODE-238",
         "Exclusivity_Date": "May 24, 2026"
     },
@@ -3328,15 +2320,15 @@
         "Appl_Type": "N",
         "Appl_No": "202192",
         "Product_No": "003",
-        "Exclusivity_Code": "ODE-373",
-        "Exclusivity_Date": "Sep 22, 2028"
+        "Exclusivity_Code": "M-285",
+        "Exclusivity_Date": "Dec 19, 2025"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "202192",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-799",
-        "Exclusivity_Date": "May 24, 2022"
+        "Product_No": "003",
+        "Exclusivity_Code": "ODE-373",
+        "Exclusivity_Date": "Sep 22, 2028"
     },
     {
         "Appl_Type": "N",
@@ -3356,15 +2348,15 @@
         "Appl_Type": "N",
         "Appl_No": "202192",
         "Product_No": "002",
-        "Exclusivity_Code": "ODE-373",
-        "Exclusivity_Date": "Sep 22, 2028"
+        "Exclusivity_Code": "M-285",
+        "Exclusivity_Date": "Dec 19, 2025"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "202192",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-799",
-        "Exclusivity_Date": "May 24, 2022"
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-373",
+        "Exclusivity_Date": "Sep 22, 2028"
     },
     {
         "Appl_Type": "N",
@@ -3379,6 +2371,13 @@
         "Product_No": "001",
         "Exclusivity_Code": "I-872",
         "Exclusivity_Date": "Sep 22, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "202192",
+        "Product_No": "001",
+        "Exclusivity_Code": "M-285",
+        "Exclusivity_Date": "Dec 19, 2025"
     },
     {
         "Appl_Type": "N",
@@ -3397,13 +2396,6 @@
     {
         "Appl_Type": "N",
         "Appl_No": "202270",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202270",
         "Product_No": "002",
         "Exclusivity_Code": "M-187",
         "Exclusivity_Date": "Dec 4, 2023"
@@ -3411,23 +2403,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "202270",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202270",
         "Product_No": "001",
         "Exclusivity_Code": "M-187",
         "Exclusivity_Date": "Dec 4, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "202270",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-244",
-        "Exclusivity_Date": "Aug 12, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3459,13 +2437,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "202450",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-256",
-        "Exclusivity_Date": "Mar 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "204096",
         "Product_No": "002",
         "Exclusivity_Code": "ODE*",
@@ -3487,20 +2458,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "203684",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Nov 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205832",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-805",
-        "Exclusivity_Date": "Sep 6, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "205832",
         "Product_No": "001",
         "Exclusivity_Code": "ODE-261",
@@ -3512,13 +2469,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "I-825",
         "Exclusivity_Date": "Mar 9, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205832",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-805",
-        "Exclusivity_Date": "Sep 6, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3585,13 +2535,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "205382",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-245",
-        "Exclusivity_Date": "Jun 9, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "204447",
         "Product_No": "004",
         "Exclusivity_Code": "M-267",
@@ -3645,27 +2588,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "M-187",
         "Exclusivity_Date": "Jan 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207589",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jul 30, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207953",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-100",
-        "Exclusivity_Date": "Oct 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207793",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-99",
-        "Exclusivity_Date": "Oct 22, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3767,52 +2689,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "022063",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-248",
-        "Exclusivity_Date": "Sep 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022063",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-248",
-        "Exclusivity_Date": "Sep 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022063",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-248",
-        "Exclusivity_Date": "Sep 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022063",
-        "Product_No": "004",
-        "Exclusivity_Code": "M-248",
-        "Exclusivity_Date": "Sep 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "208610",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Jun 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208610",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-815",
-        "Exclusivity_Date": "Oct 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209195",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Jul 18, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3825,13 +2705,6 @@
         "Appl_Type": "N",
         "Appl_No": "208716",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Sep 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208716",
-        "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Oct 12, 2024"
     },
@@ -3846,13 +2719,6 @@
         "Appl_Type": "N",
         "Appl_No": "208716",
         "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Sep 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208716",
-        "Product_No": "002",
         "Exclusivity_Code": "I-877",
         "Exclusivity_Date": "Oct 12, 2024"
     },
@@ -3867,13 +2733,6 @@
         "Appl_Type": "N",
         "Appl_No": "208716",
         "Product_No": "004",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Sep 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208716",
-        "Product_No": "004",
         "Exclusivity_Code": "I-877",
         "Exclusivity_Date": "Oct 12, 2024"
     },
@@ -3883,13 +2742,6 @@
         "Product_No": "004",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Oct 12, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208716",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Sep 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3918,27 +2770,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-177",
         "Exclusivity_Date": "Dec 21, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209360",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209360",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209360",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 21, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3946,13 +2777,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-170",
         "Exclusivity_Date": "Dec 20, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205598",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 20, 2022"
     },
     {
         "Appl_Type": "N",
@@ -3974,13 +2798,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "ODE-173",
         "Exclusivity_Date": "Feb 12, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210491",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jun 21, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4009,13 +2826,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-247",
         "Exclusivity_Date": "Jun 21, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210491",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jun 21, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4049,13 +2859,6 @@
         "Appl_Type": "N",
         "Appl_No": "210251",
         "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Jun 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210251",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-256",
         "Exclusivity_Date": "Jun 18, 2026"
     },
@@ -4072,13 +2875,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Feb 14, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210951",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-808",
-        "Exclusivity_Date": "Sep 17, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4151,13 +2947,6 @@
         "Exclusivity_Date": "Apr 8, 2023"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "209148",
-        "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "May 30, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "207027",
         "Product_No": "002",
@@ -4177,20 +2966,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "I-822",
         "Exclusivity_Date": "Jan 16, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209637",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209637",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4203,22 +2978,8 @@
         "Appl_Type": "N",
         "Appl_No": "209637",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209637",
-        "Product_No": "001",
         "Exclusivity_Code": "I-822",
         "Exclusivity_Date": "Jan 16, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208945",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 11, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4329,13 +3090,6 @@
         "Appl_Type": "N",
         "Appl_No": "208065",
         "Product_No": "002",
-        "Exclusivity_Code": "ODE-102",
-        "Exclusivity_Date": "Nov 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208065",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-176",
         "Exclusivity_Date": "Apr 18, 2025"
     },
@@ -4357,13 +3111,6 @@
         "Appl_Type": "N",
         "Appl_No": "208065",
         "Product_No": "001",
-        "Exclusivity_Code": "ODE-102",
-        "Exclusivity_Date": "Nov 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208065",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-176",
         "Exclusivity_Date": "Apr 18, 2025"
     },
@@ -4380,13 +3127,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "I-853",
         "Exclusivity_Date": "Dec 18, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208051",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Jul 17, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4462,13 +3202,6 @@
         "Appl_Type": "N",
         "Appl_No": "206910",
         "Product_No": "002",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206910",
-        "Product_No": "002",
         "Exclusivity_Code": "M-263",
         "Exclusivity_Date": "Jul 23, 2023"
     },
@@ -4476,22 +3209,8 @@
         "Appl_Type": "N",
         "Appl_No": "206910",
         "Product_No": "003",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206910",
-        "Product_No": "003",
         "Exclusivity_Code": "M-263",
         "Exclusivity_Date": "Jul 23, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206910",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4504,36 +3223,29 @@
         "Appl_Type": "N",
         "Appl_No": "204370",
         "Product_No": "001",
-        "Exclusivity_Code": "I-798",
-        "Exclusivity_Date": "May 24, 2022"
+        "Exclusivity_Code": "I-904",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "204370",
         "Product_No": "002",
-        "Exclusivity_Code": "I-798",
-        "Exclusivity_Date": "May 24, 2022"
+        "Exclusivity_Code": "I-904",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "204370",
         "Product_No": "003",
-        "Exclusivity_Code": "I-798",
-        "Exclusivity_Date": "May 24, 2022"
+        "Exclusivity_Code": "I-904",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "204370",
         "Product_No": "004",
-        "Exclusivity_Code": "I-798",
-        "Exclusivity_Date": "May 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208159",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-104",
-        "Exclusivity_Date": "Dec 11, 2022"
+        "Exclusivity_Code": "I-904",
+        "Exclusivity_Date": "Dec 16, 2025"
     },
     {
         "Appl_Type": "N",
@@ -4562,76 +3274,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "M-262",
         "Exclusivity_Date": "Jun 9, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "008",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "006",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "005",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "003",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "007",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207947",
-        "Product_No": "004",
-        "Exclusivity_Code": "ODE-106",
-        "Exclusivity_Date": "Dec 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208194",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-179",
-        "Exclusivity_Date": "Dec 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208434",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-105",
-        "Exclusivity_Date": "Dec 11, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4653,13 +3295,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Aug 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207154",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Sep 10, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4699,37 +3334,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "209606",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Aug 1, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209606",
         "Product_No": "002",
         "Exclusivity_Code": "ODE-151",
         "Exclusivity_Date": "Aug 1, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209606",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Aug 1, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209394",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Aug 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209394",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Apr 30, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4744,13 +3351,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-233",
         "Exclusivity_Date": "Apr 30, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209394",
-        "Product_No": "001",
-        "Exclusivity_Code": "D-175",
-        "Exclusivity_Date": "Sep 26, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4791,13 +3391,6 @@
         "Appl_Type": "N",
         "Appl_No": "208558",
         "Product_No": "002",
-        "Exclusivity_Code": "I-818",
-        "Exclusivity_Date": "Dec 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208558",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-283",
         "Exclusivity_Date": "Dec 27, 2026"
     },
@@ -4849,13 +3442,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-226",
         "Exclusivity_Date": "Dec 19, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208558",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-818",
-        "Exclusivity_Date": "Dec 27, 2022"
     },
     {
         "Appl_Type": "N",
@@ -4938,13 +3524,6 @@
         "Appl_Type": "N",
         "Appl_No": "206192",
         "Product_No": "001",
-        "Exclusivity_Code": "ODE-101",
-        "Exclusivity_Date": "Nov 10, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206192",
-        "Product_No": "001",
         "Exclusivity_Code": "I-902",
         "Exclusivity_Date": "Oct 28, 2025"
     },
@@ -4966,13 +3545,6 @@
         "Appl_Type": "N",
         "Appl_No": "208082",
         "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208082",
-        "Product_No": "003",
         "Exclusivity_Code": "M-54",
         "Exclusivity_Date": "Jun 24, 2024"
     },
@@ -4987,13 +3559,6 @@
         "Appl_Type": "N",
         "Appl_No": "208082",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208082",
-        "Product_No": "001",
         "Exclusivity_Code": "M-54",
         "Exclusivity_Date": "Jun 24, 2024"
     },
@@ -5003,13 +3568,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "ODE-134",
         "Exclusivity_Date": "Apr 3, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208082",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 3, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5038,13 +3596,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "ODE-211",
         "Exclusivity_Date": "Nov 21, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208573",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-795",
-        "Exclusivity_Date": "May 15, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5085,13 +3636,6 @@
         "Appl_Type": "N",
         "Appl_No": "208573",
         "Product_No": "001",
-        "Exclusivity_Code": "I-795",
-        "Exclusivity_Date": "May 15, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208573",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-239",
         "Exclusivity_Date": "May 15, 2026"
     },
@@ -5122,13 +3666,6 @@
         "Product_No": "003",
         "Exclusivity_Code": "ODE-211",
         "Exclusivity_Date": "Nov 21, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208573",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-795",
-        "Exclusivity_Date": "May 15, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5162,13 +3699,6 @@
         "Appl_Type": "N",
         "Appl_No": "210854",
         "Product_No": "003",
-        "Exclusivity_Code": "I-811",
-        "Exclusivity_Date": "Oct 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210854",
-        "Product_No": "003",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Oct 24, 2023"
     },
@@ -5178,13 +3708,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Oct 24, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210854",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-811",
-        "Exclusivity_Date": "Oct 16, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5192,20 +3715,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Oct 24, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210854",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-811",
-        "Exclusivity_Date": "Oct 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "203952",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-84",
-        "Exclusivity_Date": "Jan 9, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5217,58 +3726,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "206073",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206073",
         "Product_No": "002",
         "Exclusivity_Code": "M-252",
         "Exclusivity_Date": "Mar 30, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206073",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206316",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-243",
-        "Exclusivity_Date": "Aug 9, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206316",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-243",
-        "Exclusivity_Date": "Aug 9, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206316",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-243",
-        "Exclusivity_Date": "Aug 9, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207026",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-85",
-        "Exclusivity_Date": "Jan 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207026",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-85",
-        "Exclusivity_Date": "Jan 13, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5276,27 +3736,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-133",
         "Exclusivity_Date": "Mar 27, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208447",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Mar 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208447",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-813",
-        "Exclusivity_Date": "Oct 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208447",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-814",
-        "Exclusivity_Date": "Oct 23, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5336,30 +3775,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "209570",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Aug 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209570",
         "Product_No": "002",
         "Exclusivity_Code": "ODE-154",
         "Exclusivity_Date": "Aug 29, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209570",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Aug 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207997",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5379,13 +3797,6 @@
         "Appl_Type": "N",
         "Appl_No": "208743",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208743",
-        "Product_No": "001",
         "Exclusivity_Code": "M-270",
         "Exclusivity_Date": "Sep 20, 2024"
     },
@@ -5393,13 +3804,6 @@
         "Appl_Type": "N",
         "Appl_No": "208772",
         "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 28, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208772",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-142",
         "Exclusivity_Date": "Apr 28, 2024"
     },
@@ -5416,13 +3820,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "I-847",
         "Exclusivity_Date": "May 22, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208772",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5451,13 +3848,6 @@
         "Product_No": "003",
         "Exclusivity_Code": "ODE-142",
         "Exclusivity_Date": "Apr 28, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208772",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5554,13 +3944,6 @@
         "Appl_Type": "N",
         "Appl_No": "209936",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Sep 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209936",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-155",
         "Exclusivity_Date": "Sep 14, 2024"
     },
@@ -5582,50 +3965,8 @@
         "Appl_Type": "N",
         "Appl_No": "210259",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Oct 31, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210259",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-817",
-        "Exclusivity_Date": "Nov 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210259",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-274",
         "Exclusivity_Date": "Nov 21, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208462",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-103",
-        "Exclusivity_Date": "Nov 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208462",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-103",
-        "Exclusivity_Date": "Nov 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208462",
-        "Product_No": "003",
-        "Exclusivity_Code": "ODE-103",
-        "Exclusivity_Date": "Nov 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208794",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 28, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5636,20 +3977,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "209091",
-        "Product_No": "002",
-        "Exclusivity_Code": "NS",
-        "Exclusivity_Date": "May 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209091",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-804",
-        "Exclusivity_Date": "May 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "209939",
         "Product_No": "002",
         "Exclusivity_Code": "ODE-165",
@@ -5658,23 +3985,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "209939",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Nov 8, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209939",
         "Product_No": "001",
         "Exclusivity_Code": "ODE-165",
         "Exclusivity_Date": "Nov 8, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209939",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Nov 8, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5686,23 +3999,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "209940",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Nov 8, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209940",
         "Product_No": "001",
         "Exclusivity_Code": "ODE-165",
         "Exclusivity_Date": "Nov 8, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209940",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Nov 8, 2022"
     },
     {
         "Appl_Type": "N",
@@ -5834,8 +4133,29 @@
         "Appl_Type": "N",
         "Appl_No": "210563",
         "Product_No": "001",
-        "Exclusivity_Code": "M-236",
-        "Exclusivity_Date": "Jan 25, 2022"
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Mar 4, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "May 6, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Jan 18, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 2, 2024"
     },
     {
         "Appl_Type": "N",
@@ -5848,8 +4168,29 @@
         "Appl_Type": "N",
         "Appl_No": "210563",
         "Product_No": "002",
-        "Exclusivity_Code": "M-236",
-        "Exclusivity_Date": "Jan 25, 2022"
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Mar 4, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 2, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "May 6, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Jan 18, 2024"
     },
     {
         "Appl_Type": "N",
@@ -5862,8 +4203,29 @@
         "Appl_Type": "N",
         "Appl_No": "210563",
         "Product_No": "003",
-        "Exclusivity_Code": "M-236",
-        "Exclusivity_Date": "Jan 25, 2022"
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Jan 18, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "003",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Mar 4, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "003",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "May 6, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "003",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 2, 2024"
     },
     {
         "Appl_Type": "N",
@@ -5876,8 +4238,29 @@
         "Appl_Type": "N",
         "Appl_No": "210563",
         "Product_No": "004",
-        "Exclusivity_Code": "M-236",
-        "Exclusivity_Date": "Jan 25, 2022"
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Mar 4, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "004",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "May 6, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "004",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Jan 18, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "210563",
+        "Product_No": "004",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 2, 2024"
     },
     {
         "Appl_Type": "N",
@@ -5934,13 +4317,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Jun 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208611",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-815",
-        "Exclusivity_Date": "Oct 24, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6093,13 +4469,6 @@
         "Appl_Type": "N",
         "Appl_No": "210807",
         "Product_No": "001",
-        "Exclusivity_Code": "I-806",
-        "Exclusivity_Date": "Sep 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210807",
-        "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Jan 27, 2025"
     },
@@ -6109,13 +4478,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Aug 30, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210806",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-827",
-        "Exclusivity_Date": "Sep 19, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6191,13 +4553,6 @@
         "Appl_Type": "N",
         "Appl_No": "208692",
         "Product_No": "001",
-        "Exclusivity_Code": "I-792",
-        "Exclusivity_Date": "Jan 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208692",
-        "Product_No": "001",
         "Exclusivity_Code": "I-854",
         "Exclusivity_Date": "Jan 22, 2024"
     },
@@ -6226,13 +4581,6 @@
         "Appl_Type": "N",
         "Appl_No": "208692",
         "Product_No": "002",
-        "Exclusivity_Code": "I-792",
-        "Exclusivity_Date": "Jan 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208692",
-        "Product_No": "002",
         "Exclusivity_Code": "I-854",
         "Exclusivity_Date": "Jan 22, 2024"
     },
@@ -6256,13 +4604,6 @@
         "Product_No": "003",
         "Exclusivity_Code": "ODE-227",
         "Exclusivity_Date": "Jan 14, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208692",
-        "Product_No": "003",
-        "Exclusivity_Code": "I-792",
-        "Exclusivity_Date": "Jan 14, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6399,24 +4740,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "210238",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-802",
-        "Exclusivity_Date": "Jun 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "209229",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "May 16, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205580",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Dec 7, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6445,13 +4772,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-203",
         "Exclusivity_Date": "Jul 20, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211192",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-816",
-        "Exclusivity_Date": "May 2, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6567,13 +4887,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "208169",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-98",
-        "Exclusivity_Date": "Sep 4, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "208030",
         "Product_No": "002",
         "Exclusivity_Code": "I-859",
@@ -6585,13 +4898,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "I-859",
         "Exclusivity_Date": "Apr 30, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207981",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-794",
-        "Exclusivity_Date": "Feb 22, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6599,13 +4905,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-229",
         "Exclusivity_Date": "Feb 22, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207981",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-794",
-        "Exclusivity_Date": "Feb 22, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6623,38 +4922,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "208325",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208325",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208325",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 7, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "208684",
         "Product_No": "003",
         "Exclusivity_Code": "ODE-130",
         "Exclusivity_Date": "Feb 9, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208684",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 9, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6674,13 +4945,6 @@
         "Appl_Type": "N",
         "Appl_No": "208684",
         "Product_No": "004",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 9, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208684",
-        "Product_No": "004",
         "Exclusivity_Code": "ODE-252",
         "Exclusivity_Date": "Jun 7, 2026"
     },
@@ -6695,13 +4959,6 @@
         "Appl_Type": "N",
         "Appl_No": "208684",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 9, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208684",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-252",
         "Exclusivity_Date": "Jun 7, 2026"
     },
@@ -6711,13 +4968,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "ODE-130",
         "Exclusivity_Date": "Feb 9, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208684",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 9, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6732,13 +4982,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-130",
         "Exclusivity_Date": "Feb 9, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208685",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 9, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6772,36 +5015,8 @@
         "Appl_Type": "N",
         "Appl_No": "209092",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Mar 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209092",
-        "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Dec 10, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207145",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Mar 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207145",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Mar 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208854",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Mar 23, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6812,31 +5027,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "209210",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-240",
-        "Exclusivity_Date": "Feb 15, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206038",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-93",
-        "Exclusivity_Date": "Jul 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "206038",
         "Product_No": "002",
         "Exclusivity_Code": "ODE-123",
         "Exclusivity_Date": "Sep 28, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206038",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-93",
-        "Exclusivity_Date": "Jul 2, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6889,41 +5083,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "206406",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-94",
-        "Exclusivity_Date": "Jul 10, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206406",
-        "Product_No": "003",
-        "Exclusivity_Code": "ODE-94",
-        "Exclusivity_Date": "Jul 10, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206406",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-94",
-        "Exclusivity_Date": "Jul 10, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206995",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-95",
-        "Exclusivity_Date": "Jul 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207620",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Oct 1, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "207620",
         "Product_No": "002",
         "Exclusivity_Code": "M-82",
@@ -6933,22 +5092,8 @@
         "Appl_Type": "N",
         "Appl_No": "207620",
         "Product_No": "003",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Oct 1, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207620",
-        "Product_No": "003",
         "Exclusivity_Code": "M-82",
         "Exclusivity_Date": "Feb 16, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207620",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Oct 1, 2022"
     },
     {
         "Appl_Type": "N",
@@ -6970,13 +5115,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-284",
         "Exclusivity_Date": "Sep 28, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208215",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-812",
-        "Exclusivity_Date": "Oct 3, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7044,33 +5182,12 @@
     {
         "Appl_Type": "N",
         "Appl_No": "208026",
-        "Product_No": "002",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208026",
         "Product_No": "001",
         "Exclusivity_Code": "M-252",
         "Exclusivity_Date": "Mar 30, 2023"
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "208026",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-258",
-        "Exclusivity_Date": "Jul 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207968",
-        "Product_No": "001",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "207968",
         "Product_No": "001",
         "Exclusivity_Code": "M-263",
@@ -7080,22 +5197,8 @@
         "Appl_Type": "N",
         "Appl_No": "207968",
         "Product_No": "002",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207968",
-        "Product_No": "002",
         "Exclusivity_Code": "M-263",
         "Exclusivity_Date": "Jul 23, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207968",
-        "Product_No": "003",
-        "Exclusivity_Code": "M-241",
-        "Exclusivity_Date": "Jul 24, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7169,31 +5272,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "208254",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209805",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "209805",
         "Product_No": "001",
         "Exclusivity_Code": "M-275",
         "Exclusivity_Date": "Sep 17, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209805",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7206,22 +5288,8 @@
         "Appl_Type": "N",
         "Appl_No": "209803",
         "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209803",
-        "Product_No": "002",
         "Exclusivity_Code": "M-275",
         "Exclusivity_Date": "Sep 17, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209803",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7234,13 +5302,6 @@
         "Appl_Type": "N",
         "Appl_No": "209806",
         "Product_No": "004",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209806",
-        "Product_No": "004",
         "Exclusivity_Code": "M-275",
         "Exclusivity_Date": "Sep 17, 2024"
     },
@@ -7248,22 +5309,8 @@
         "Appl_Type": "N",
         "Appl_No": "209806",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209806",
-        "Product_No": "001",
         "Exclusivity_Code": "M-275",
         "Exclusivity_Date": "Sep 17, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209806",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7276,22 +5323,8 @@
         "Appl_Type": "N",
         "Appl_No": "209806",
         "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209806",
-        "Product_No": "003",
         "Exclusivity_Code": "M-275",
         "Exclusivity_Date": "Sep 17, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206947",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-87",
-        "Exclusivity_Date": "Feb 13, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7299,13 +5332,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "ODE-196",
         "Exclusivity_Date": "Aug 15, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206947",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-807",
-        "Exclusivity_Date": "Sep 17, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7332,22 +5358,8 @@
         "Appl_Type": "N",
         "Appl_No": "206947",
         "Product_No": "001",
-        "Exclusivity_Code": "ODE-87",
-        "Exclusivity_Date": "Feb 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206947",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-196",
         "Exclusivity_Date": "Aug 15, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206947",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-807",
-        "Exclusivity_Date": "Sep 17, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7369,27 +5381,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "M-272",
         "Exclusivity_Date": "Dec 19, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205353",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-89",
-        "Exclusivity_Date": "Feb 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205353",
-        "Product_No": "003",
-        "Exclusivity_Code": "ODE-89",
-        "Exclusivity_Date": "Feb 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205353",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-89",
-        "Exclusivity_Date": "Feb 23, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7400,31 +5391,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "205750",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-91",
-        "Exclusivity_Date": "Mar 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "205750",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-91",
-        "Exclusivity_Date": "Mar 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "207925",
         "Product_No": "003",
         "Exclusivity_Code": "ODE-236",
         "Exclusivity_Date": "Apr 29, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207925",
-        "Product_No": "003",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Apr 29, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7446,13 +5416,6 @@
         "Product_No": "003",
         "Exclusivity_Code": "ODE-189",
         "Exclusivity_Date": "Jul 31, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207925",
-        "Product_No": "003",
-        "Exclusivity_Code": "ODE-188",
-        "Exclusivity_Date": "Mar 17, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7465,13 +5428,6 @@
         "Appl_Type": "N",
         "Appl_No": "207925",
         "Product_No": "001",
-        "Exclusivity_Code": "ODE-188",
-        "Exclusivity_Date": "Mar 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207925",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-189",
         "Exclusivity_Date": "Jul 31, 2024"
     },
@@ -7495,13 +5451,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-236",
         "Exclusivity_Date": "Apr 29, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207925",
-        "Product_No": "001",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Apr 29, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7514,13 +5463,6 @@
         "Appl_Type": "N",
         "Appl_No": "207925",
         "Product_No": "002",
-        "Exclusivity_Code": "ODE-188",
-        "Exclusivity_Date": "Mar 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207925",
-        "Product_No": "002",
         "Exclusivity_Code": "ODE-189",
         "Exclusivity_Date": "Jul 31, 2024"
     },
@@ -7544,13 +5486,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "ODE-236",
         "Exclusivity_Date": "Apr 29, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207925",
-        "Product_No": "002",
-        "Exclusivity_Code": "NPP",
-        "Exclusivity_Date": "Apr 29, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7605,13 +5540,6 @@
         "Appl_Type": "N",
         "Appl_No": "208341",
         "Product_No": "001",
-        "Exclusivity_Code": "D-177",
-        "Exclusivity_Date": "Nov 15, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208341",
-        "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Mar 19, 2023"
     },
@@ -7647,22 +5575,8 @@
         "Appl_Type": "N",
         "Appl_No": "209935",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Mar 13, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209935",
-        "Product_No": "001",
         "Exclusivity_Code": "NPP",
         "Exclusivity_Date": "Dec 10, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209176",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "May 5, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7675,22 +5589,8 @@
         "Appl_Type": "N",
         "Appl_No": "209176",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "May 5, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209176",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-144",
         "Exclusivity_Date": "May 5, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209963",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 14, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7925,13 +5825,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "208745",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Jan 19, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "208264",
         "Product_No": "001",
         "Exclusivity_Code": "ODE-129",
@@ -7943,27 +5836,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "ODE-129",
         "Exclusivity_Date": "Jan 26, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209241",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209241",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209241",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Apr 11, 2022"
     },
     {
         "Appl_Type": "N",
@@ -7971,20 +5843,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-149",
         "Exclusivity_Date": "Jun 29, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208383",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Jun 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208383",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Jun 23, 2022"
     },
     {
         "Appl_Type": "N",
@@ -8130,36 +5988,8 @@
         "Appl_Type": "N",
         "Appl_No": "208742",
         "Product_No": "001",
-        "Exclusivity_Code": "I-800",
-        "Exclusivity_Date": "Jun 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208742",
-        "Product_No": "001",
         "Exclusivity_Code": "I-876",
         "Exclusivity_Date": "Oct 7, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212268",
-        "Product_No": "002",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Oct 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212268",
-        "Product_No": "003",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Oct 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212268",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Oct 11, 2022"
     },
     {
         "Appl_Type": "N",
@@ -8244,13 +6074,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PC",
         "Exclusivity_Date": "Mar 20, 2023"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "214805",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jan 3, 2022"
     },
     {
         "Appl_Type": "A",
@@ -8485,6 +6308,13 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "212102",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-393",
+        "Exclusivity_Date": "Mar 25, 2029"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "208232",
         "Product_No": "001",
         "Exclusivity_Code": "NP",
@@ -8496,6 +6326,13 @@
         "Product_No": "001",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Jan 13, 2025"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "213478",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-391",
+        "Exclusivity_Date": "Mar 22, 2029"
     },
     {
         "Appl_Type": "N",
@@ -8552,34 +6389,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Aug 27, 2024"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "201452",
-        "Product_No": "004",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Aug 30, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "201452",
-        "Product_No": "003",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Aug 30, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "201452",
-        "Product_No": "002",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Aug 30, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "201452",
-        "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Aug 30, 2022"
     },
     {
         "Appl_Type": "N",
@@ -8793,6 +6602,20 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "214907",
+        "Product_No": "001",
+        "Exclusivity_Code": "I-905",
+        "Exclusivity_Date": "Dec 16, 2025"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "214907",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-390",
+        "Exclusivity_Date": "Nov 29, 2028"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "212194",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
@@ -8808,6 +6631,13 @@
     {
         "Appl_Type": "N",
         "Appl_No": "213137",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-394",
+        "Exclusivity_Date": "Dec 17, 2028"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "213137",
         "Product_No": "001",
         "Exclusivity_Code": "ODE-281",
         "Exclusivity_Date": "Nov 25, 2026"
@@ -8818,6 +6648,13 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Nov 25, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "213137",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-394",
+        "Exclusivity_Date": "Dec 17, 2028"
     },
     {
         "Appl_Type": "N",
@@ -8913,9 +6750,23 @@
     {
         "Appl_Type": "N",
         "Appl_No": "214938",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-387",
+        "Exclusivity_Date": "Nov 19, 2028"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "214938",
         "Product_No": "003",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Nov 19, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "214938",
+        "Product_No": "003",
+        "Exclusivity_Code": "ODE-387",
+        "Exclusivity_Date": "Nov 19, 2028"
     },
     {
         "Appl_Type": "N",
@@ -8926,10 +6777,24 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "214938",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-387",
+        "Exclusivity_Date": "Nov 19, 2028"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "214012",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Dec 22, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "214133",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-385",
+        "Exclusivity_Date": "Dec 30, 2028"
     },
     {
         "Appl_Type": "N",
@@ -9042,27 +6907,6 @@
         "Product_No": "003",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Apr 28, 2027"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "209522",
-        "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Jun 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209354",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Apr 25, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210872",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Apr 26, 2022"
     },
     {
         "Appl_Type": "N",
@@ -9219,13 +7063,6 @@
         "Exclusivity_Date": "Apr 29, 2025"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "204438",
-        "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Jul 3, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "215499",
         "Product_No": "001",
@@ -9262,31 +7099,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "208219",
-        "Product_No": "001",
-        "Exclusivity_Code": "NS",
-        "Exclusivity_Date": "Feb 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212038",
-        "Product_No": "002",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Feb 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "212038",
         "Product_No": "002",
         "Exclusivity_Code": "M-82",
         "Exclusivity_Date": "Jun 28, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212038",
-        "Product_No": "005",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Feb 27, 2022"
     },
     {
         "Appl_Type": "N",
@@ -9299,22 +7115,8 @@
         "Appl_Type": "N",
         "Appl_No": "212038",
         "Product_No": "004",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Feb 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212038",
-        "Product_No": "004",
         "Exclusivity_Code": "M-82",
         "Exclusivity_Date": "Jun 28, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212038",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Feb 27, 2022"
     },
     {
         "Appl_Type": "N",
@@ -9327,22 +7129,8 @@
         "Appl_Type": "N",
         "Appl_No": "212038",
         "Product_No": "006",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Feb 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212038",
-        "Product_No": "006",
         "Exclusivity_Code": "M-82",
         "Exclusivity_Date": "Jun 28, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212038",
-        "Product_No": "003",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Feb 27, 2022"
     },
     {
         "Appl_Type": "N",
@@ -9479,6 +7267,20 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "212937",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-384",
+        "Exclusivity_Date": "Sep 20, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215814",
+        "Product_No": "001",
+        "Exclusivity_Code": "NCE",
+        "Exclusivity_Date": "Dec 1, 2027"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "212489",
         "Product_No": "002",
         "Exclusivity_Code": "NCE",
@@ -9497,13 +7299,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PC",
         "Exclusivity_Date": "Mar 20, 2023"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "212845",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Oct 9, 2022"
     },
     {
         "Appl_Type": "N",
@@ -9527,13 +7322,6 @@
         "Exclusivity_Date": "May 15, 2027"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "213070",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Apr 20, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "215383",
         "Product_No": "001",
@@ -9555,6 +7343,13 @@
         "Exclusivity_Date": "Jun 1, 2027"
     },
     {
+        "Appl_Type": "N",
+        "Appl_No": "215904",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-395",
+        "Exclusivity_Date": "Jun 1, 2029"
+    },
+    {
         "Appl_Type": "A",
         "Appl_No": "216859",
         "Product_No": "001",
@@ -9563,17 +7358,17 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "216227",
+        "Product_No": "001",
+        "Exclusivity_Code": "NP",
+        "Exclusivity_Date": "Sep 27, 2025"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "216660",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Sep 29, 2027"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211415",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Oct 4, 2022"
     },
     {
         "Appl_Type": "N",
@@ -9724,24 +7519,31 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "215596",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-388",
+        "Exclusivity_Date": "Nov 23, 2028"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "213312",
         "Product_No": "001",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Nov 22, 2024"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "215624",
+        "Appl_Type": "N",
+        "Appl_No": "213312",
         "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "May 25, 2022"
+        "Exclusivity_Code": "ODE-386",
+        "Exclusivity_Date": "Nov 22, 2028"
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "210134",
+        "Appl_No": "214375",
         "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Jul 24, 2022"
+        "Exclusivity_Code": "NCE",
+        "Exclusivity_Date": "Dec 23, 2027"
     },
     {
         "Appl_Type": "N",
@@ -9857,38 +7659,10 @@
     },
     {
         "Appl_Type": "A",
-        "Appl_No": "211290",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jun 20, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "214864",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Aug 2, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "214982",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Aug 16, 2022"
-    },
-    {
-        "Appl_Type": "A",
         "Appl_No": "214668",
         "Product_No": "001",
         "Exclusivity_Code": "CGT",
         "Exclusivity_Date": "Feb 1, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "216387",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Oct 31, 2022"
     },
     {
         "Appl_Type": "N",
@@ -9917,62 +7691,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "W",
         "Exclusivity_Date": "Aug 21, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-263",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-262",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE-264",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "001",
-        "Exclusivity_Code": "D-177",
-        "Exclusivity_Date": "Nov 15, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-262",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-263",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE-264",
-        "Exclusivity_Date": "Aug 28, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212477",
-        "Product_No": "002",
-        "Exclusivity_Code": "D-177",
-        "Exclusivity_Date": "Nov 15, 2022"
     },
     {
         "Appl_Type": "N",
@@ -10123,20 +7841,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "210595",
-        "Product_No": "001",
-        "Exclusivity_Code": "NC",
-        "Exclusivity_Date": "Mar 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022561",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Mar 29, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "212887",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
@@ -10235,20 +7939,6 @@
     },
     {
         "Appl_Type": "A",
-        "Appl_No": "214542",
-        "Product_No": "002",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jan 29, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "214542",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jan 29, 2022"
-    },
-    {
-        "Appl_Type": "A",
         "Appl_No": "215737",
         "Product_No": "001",
         "Exclusivity_Code": "CGT",
@@ -10314,8 +8004,22 @@
         "Appl_Type": "N",
         "Appl_No": "216196",
         "Product_No": "001",
+        "Exclusivity_Code": "ODE-392",
+        "Exclusivity_Date": "Feb 17, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "216196",
+        "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Feb 17, 2027"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "216196",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-392",
+        "Exclusivity_Date": "Feb 17, 2029"
     },
     {
         "Appl_Type": "N",
@@ -10328,15 +8032,15 @@
         "Appl_Type": "N",
         "Appl_No": "216196",
         "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Feb 17, 2027"
+        "Exclusivity_Code": "ODE-392",
+        "Exclusivity_Date": "Feb 17, 2029"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "214585",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Nov 14, 2022"
+        "Appl_Type": "N",
+        "Appl_No": "216196",
+        "Product_No": "003",
+        "Exclusivity_Code": "NCE",
+        "Exclusivity_Date": "Feb 17, 2027"
     },
     {
         "Appl_Type": "N",
@@ -10446,9 +8150,23 @@
     {
         "Appl_Type": "N",
         "Appl_No": "215039",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-396",
+        "Exclusivity_Date": "Apr 5, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215039",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "May 24, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215039",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-396",
+        "Exclusivity_Date": "Apr 5, 2029"
     },
     {
         "Appl_Type": "N",
@@ -10458,11 +8176,18 @@
         "Exclusivity_Date": "May 24, 2024"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "215586",
+        "Appl_Type": "N",
+        "Appl_No": "215039",
+        "Product_No": "003",
+        "Exclusivity_Code": "ODE-396",
+        "Exclusivity_Date": "Apr 5, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "216340",
         "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Oct 9, 2022"
+        "Exclusivity_Code": "NCE",
+        "Exclusivity_Date": "Dec 12, 2027"
     },
     {
         "Appl_Type": "N",
@@ -10669,13 +8394,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "211882",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Dec 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "214916",
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
@@ -10683,20 +8401,6 @@
     },
     {
         "Appl_Type": "A",
-        "Appl_No": "216249",
-        "Product_No": "002",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Dec 24, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "216249",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Dec 24, 2022"
-    },
-    {
-        "Appl_Type": "A",
         "Appl_No": "216120",
         "Product_No": "002",
         "Exclusivity_Code": "CGT",
@@ -10780,13 +8484,6 @@
         "Exclusivity_Date": "May 28, 2025"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "213729",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jun 18, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "212801",
         "Product_No": "002",
@@ -10832,22 +8529,15 @@
         "Appl_Type": "N",
         "Appl_No": "215256",
         "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
+        "Exclusivity_Code": "NP",
+        "Exclusivity_Date": "Jun 4, 2024"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "215256",
         "Product_No": "003",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Jun 4, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "215256",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 23, 2025"
     },
     {
         "Appl_Type": "N",
@@ -10859,9 +8549,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "215256",
-        "Product_No": "005",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
+        "Product_No": "001",
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 23, 2025"
     },
     {
         "Appl_Type": "N",
@@ -10873,6 +8563,13 @@
     {
         "Appl_Type": "N",
         "Appl_No": "215256",
+        "Product_No": "005",
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 23, 2025"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215256",
         "Product_No": "002",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Jun 4, 2024"
@@ -10881,15 +8578,8 @@
         "Appl_Type": "N",
         "Appl_No": "215256",
         "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "215256",
-        "Product_No": "004",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 23, 2025"
     },
     {
         "Appl_Type": "N",
@@ -10897,6 +8587,13 @@
         "Product_No": "004",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Jun 4, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215256",
+        "Product_No": "004",
+        "Exclusivity_Code": "NPP",
+        "Exclusivity_Date": "Dec 23, 2025"
     },
     {
         "Appl_Type": "N",
@@ -10939,13 +8636,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-374",
         "Exclusivity_Date": "Sep 15, 2028"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "213053",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jun 27, 2022"
     },
     {
         "Appl_Type": "N",
@@ -11165,27 +8855,6 @@
         "Exclusivity_Date": "Mar 20, 2023"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "215158",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Mar 29, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "214596",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Oct 30, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "214596",
-        "Product_No": "002",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Oct 30, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "217003",
         "Product_No": "001",
@@ -11198,13 +8867,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PC",
         "Exclusivity_Date": "Jun 27, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211367",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "May 23, 2022"
     },
     {
         "Appl_Type": "N",
@@ -11383,20 +9045,6 @@
     },
     {
         "Appl_Type": "A",
-        "Appl_No": "215106",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Apr 20, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "215106",
-        "Product_No": "002",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Apr 19, 2022"
-    },
-    {
-        "Appl_Type": "A",
         "Appl_No": "209348",
         "Product_No": "001",
         "Exclusivity_Code": "PC",
@@ -11434,15 +9082,15 @@
         "Appl_Type": "N",
         "Appl_No": "215935",
         "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Dec 15, 2024"
+        "Exclusivity_Code": "ODE-389",
+        "Exclusivity_Date": "Dec 15, 2028"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "211538",
+        "Appl_Type": "N",
+        "Appl_No": "215935",
         "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Jul 17, 2022"
+        "Exclusivity_Code": "NP",
+        "Exclusivity_Date": "Dec 15, 2024"
     },
     {
         "Appl_Type": "A",
@@ -11492,34 +9140,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Aug 2, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212097",
-        "Product_No": "002",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Sep 10, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212097",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Sep 10, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212097",
-        "Product_No": "004",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Sep 10, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212097",
-        "Product_No": "003",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Sep 10, 2022"
     },
     {
         "Appl_Type": "N",
@@ -11627,13 +9247,6 @@
         "Exclusivity_Date": "Dec 1, 2025"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "212408",
-        "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Feb 13, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "211950",
         "Product_No": "001",
@@ -11646,13 +9259,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Mar 28, 2025"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "213796",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Oct 29, 2022"
     },
     {
         "Appl_Type": "A",
@@ -11760,13 +9366,6 @@
         "Exclusivity_Date": "Oct 29, 2028"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "215037",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "May 22, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "215650",
         "Product_No": "001",
@@ -11781,11 +9380,11 @@
         "Exclusivity_Date": "Nov 25, 2024"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "215398",
+        "Appl_Type": "N",
+        "Appl_No": "216157",
         "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Nov 13, 2022"
+        "Exclusivity_Code": "ODE-394",
+        "Exclusivity_Date": "Dec 17, 2028"
     },
     {
         "Appl_Type": "A",
@@ -11935,20 +9534,6 @@
         "Exclusivity_Date": "May 25, 2024"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "215003",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Mar 12, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "212514",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Aug 14, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "213871",
         "Product_No": "002",
@@ -11989,20 +9574,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "ODE-290",
         "Exclusivity_Date": "May 26, 2027"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213674",
-        "Product_No": "001",
-        "Exclusivity_Code": "I-808",
-        "Exclusivity_Date": "Dec 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213674",
-        "Product_No": "002",
-        "Exclusivity_Code": "I-808",
-        "Exclusivity_Date": "Dec 16, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12090,17 +9661,10 @@
     },
     {
         "Appl_Type": "A",
-        "Appl_No": "203347",
+        "Appl_No": "216496",
         "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Aug 6, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "203347",
-        "Product_No": "002",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Aug 6, 2022"
+        "Exclusivity_Code": "CGT",
+        "Exclusivity_Date": "Jul 17, 2023"
     },
     {
         "Appl_Type": "N",
@@ -12148,22 +9712,8 @@
         "Appl_Type": "N",
         "Appl_No": "211994",
         "Product_No": "001",
-        "Exclusivity_Code": "NC",
-        "Exclusivity_Date": "Apr 8, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211994",
-        "Product_No": "001",
         "Exclusivity_Code": "I-839",
         "Exclusivity_Date": "Aug 6, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209964",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Apr 22, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12299,13 +9849,6 @@
         "Exclusivity_Date": "May 8, 2027"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "206119",
-        "Product_No": "001",
-        "Exclusivity_Code": "PC",
-        "Exclusivity_Date": "Sep 6, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "214985",
         "Product_No": "002",
@@ -12426,24 +9969,17 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "214070",
+        "Product_No": "001",
+        "Exclusivity_Code": "NP",
+        "Exclusivity_Date": "Jan 10, 2026"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "213082",
         "Product_No": "001",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Sep 25, 2023"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "212592",
-        "Product_No": "002",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Aug 25, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "212592",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Aug 25, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12471,21 +10007,7 @@
         "Appl_No": "213491",
         "Product_No": "002",
         "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213491",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE*",
         "Exclusivity_Date": "Dec 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213491",
-        "Product_No": "002",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 14, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12499,21 +10021,7 @@
         "Appl_No": "213491",
         "Product_No": "001",
         "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213491",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE*",
         "Exclusivity_Date": "Dec 22, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213491",
-        "Product_No": "001",
-        "Exclusivity_Code": "ODE*",
-        "Exclusivity_Date": "Aug 14, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12580,10 +10088,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "215110",
+        "Appl_No": "214900",
         "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Aug 3, 2022"
+        "Exclusivity_Code": "I-903",
+        "Exclusivity_Date": "Nov 30, 2025"
     },
     {
         "Appl_Type": "N",
@@ -12591,13 +10099,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "M-259",
         "Exclusivity_Date": "Apr 10, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "215110",
-        "Product_No": "001",
-        "Exclusivity_Code": "D-175",
-        "Exclusivity_Date": "Sep 26, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12640,13 +10141,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Dec 20, 2024"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "211884",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Sep 11, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12699,66 +10193,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "208259",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 18, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208259",
-        "Product_No": "001",
-        "Exclusivity_Code": "NC",
-        "Exclusivity_Date": "Mar 12, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "209388",
         "Product_No": "001",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Jun 19, 2023"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "212868",
-        "Product_No": "003",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jan 26, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "212868",
-        "Product_No": "002",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jan 26, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "212868",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Jan 26, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "211975",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Apr 2, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "211975",
-        "Product_No": "002",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Apr 2, 2022"
-    },
-    {
-        "Appl_Type": "A",
-        "Appl_No": "211271",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Apr 2, 2022"
     },
     {
         "Appl_Type": "N",
@@ -12776,38 +10214,10 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "206089",
-        "Product_No": "003",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Mar 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206089",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Mar 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "206089",
-        "Product_No": "002",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Mar 27, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "209575",
         "Product_No": "001",
         "Exclusivity_Code": "NP",
         "Exclusivity_Date": "Jan 10, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209575",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 14, 2022"
     },
     {
         "Appl_Type": "N",
@@ -13020,13 +10430,6 @@
         "Exclusivity_Date": "Aug 12, 2027"
     },
     {
-        "Appl_Type": "A",
-        "Appl_No": "212025",
-        "Product_No": "001",
-        "Exclusivity_Code": "CGT",
-        "Exclusivity_Date": "Aug 24, 2022"
-    },
-    {
         "Appl_Type": "N",
         "Appl_No": "211280",
         "Product_No": "002",
@@ -13046,34 +10449,6 @@
         "Product_No": "003",
         "Exclusivity_Code": "NCE",
         "Exclusivity_Date": "Jan 31, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210874",
-        "Product_No": "002",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "May 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210874",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "May 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210874",
-        "Product_No": "003",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "May 2, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "210874",
-        "Product_No": "004",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "May 2, 2022"
     },
     {
         "Appl_Type": "N",
@@ -13121,13 +10496,6 @@
         "Appl_Type": "N",
         "Appl_No": "211321",
         "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "May 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211321",
-        "Product_No": "001",
         "Exclusivity_Code": "ODE-243",
         "Exclusivity_Date": "May 17, 2026"
     },
@@ -13162,37 +10530,9 @@
     {
         "Appl_Type": "N",
         "Appl_No": "213051",
-        "Product_No": "001",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Sep 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213051",
-        "Product_No": "001",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213051",
         "Product_No": "003",
         "Exclusivity_Code": "M-252",
         "Exclusivity_Date": "Jan 16, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213051",
-        "Product_No": "003",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Sep 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213051",
-        "Product_No": "003",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
     },
     {
         "Appl_Type": "N",
@@ -13203,31 +10543,87 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "213051",
-        "Product_No": "002",
-        "Exclusivity_Code": "NP",
-        "Exclusivity_Date": "Sep 20, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "213051",
-        "Product_No": "002",
-        "Exclusivity_Code": "NCE",
-        "Exclusivity_Date": "Dec 5, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021928",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Aug 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021928",
+        "Appl_No": "212477",
         "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Aug 22, 2022"
+        "Exclusivity_Code": "ODE-263",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "212477",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-262",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "212477",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE-264",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "212477",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-262",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "212477",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-263",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "212477",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE-264",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205834",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205834",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205834",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205834",
+        "Product_No": "001",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205834",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 28, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "205834",
+        "Product_No": "002",
+        "Exclusivity_Code": "ODE*",
+        "Exclusivity_Date": "Aug 28, 2026"
     },
     {
         "Appl_Type": "N",
@@ -13270,48 +10666,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Jun 21, 2026"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021986",
-        "Product_No": "006",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021986",
-        "Product_No": "005",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021986",
-        "Product_No": "004",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021986",
-        "Product_No": "003",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021986",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 21, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021986",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 21, 2022"
     },
     {
         "Appl_Type": "N",
@@ -13511,97 +10865,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "021196",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Apr 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021356",
-        "Product_No": "004",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021356",
-        "Product_No": "003",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021356",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021356",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 11, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "008",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "007",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "006",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "005",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "004",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "003",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021446",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "021506",
         "Product_No": "003",
         "Exclusivity_Code": "PED",
@@ -13613,13 +10876,6 @@
         "Product_No": "002",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Jun 20, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "021602",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Apr 8, 2022"
     },
     {
         "Appl_Type": "N",
@@ -13637,34 +10893,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "022187",
-        "Product_No": "003",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jan 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022187",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jan 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022187",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jan 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022200",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Aug 15, 2023"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "022200",
         "Product_No": "002",
         "Exclusivity_Code": "PED",
@@ -13682,70 +10910,14 @@
         "Appl_No": "022200",
         "Product_No": "001",
         "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Aug 15, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "022200",
+        "Product_No": "001",
+        "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Jan 22, 2025"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022291",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Feb 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022291",
-        "Product_No": "005",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Feb 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022291",
-        "Product_No": "004",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Feb 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022291",
-        "Product_No": "003",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Feb 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022291",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Feb 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022341",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Dec 17, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022363",
-        "Product_No": "003",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022363",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 16, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022363",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 16, 2022"
     },
     {
         "Appl_Type": "N",
@@ -13872,13 +11044,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Nov 28, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022488",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Nov 23, 2022"
     },
     {
         "Appl_Type": "N",
@@ -13928,13 +11093,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Jul 31, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "022577",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 11, 2022"
     },
     {
         "Appl_Type": "N",
@@ -14240,6 +11398,41 @@
     {
         "Appl_Type": "N",
         "Appl_No": "202192",
+        "Product_No": "005",
+        "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Jun 19, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "202192",
+        "Product_No": "004",
+        "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Jun 19, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "202192",
+        "Product_No": "003",
+        "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Jun 19, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "202192",
+        "Product_No": "002",
+        "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Jun 19, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "202192",
+        "Product_No": "001",
+        "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Jun 19, 2026"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "202192",
         "Product_No": "002",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Mar 22, 2025"
@@ -14275,14 +11468,14 @@
     {
         "Appl_Type": "N",
         "Appl_No": "202192",
-        "Product_No": "002",
+        "Product_No": "001",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Nov 24, 2026"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "202192",
-        "Product_No": "001",
+        "Product_No": "002",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Nov 24, 2026"
     },
@@ -14344,13 +11537,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "207695",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Jun 14, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "022063",
         "Product_No": "004",
         "Exclusivity_Code": "PED",
@@ -14376,20 +11562,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Mar 13, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207027",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Feb 26, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207027",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Feb 26, 2022"
     },
     {
         "Appl_Type": "N",
@@ -14431,13 +11603,6 @@
         "Appl_No": "209394",
         "Product_No": "001",
         "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Oct 30, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209394",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Feb 3, 2023"
     },
     {
@@ -14467,27 +11632,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Dec 24, 2024"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208082",
-        "Product_No": "003",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Oct 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208082",
-        "Product_No": "002",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Oct 3, 2022"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "208082",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Oct 3, 2022"
     },
     {
         "Appl_Type": "N",
@@ -14697,6 +11841,13 @@
         "Appl_No": "212102",
         "Product_No": "001",
         "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Sep 25, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "212102",
+        "Product_No": "001",
+        "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Sep 25, 2025"
     },
     {
@@ -14704,14 +11855,14 @@
         "Appl_No": "212102",
         "Product_No": "001",
         "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Dec 25, 2023"
+        "Exclusivity_Date": "Dec 25, 2027"
     },
     {
         "Appl_Type": "N",
         "Appl_No": "212102",
         "Product_No": "001",
         "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Dec 25, 2027"
+        "Exclusivity_Date": "Dec 25, 2023"
     },
     {
         "Appl_Type": "N",
@@ -14799,13 +11950,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "209964",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Oct 22, 2022"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "213491",
         "Product_No": "002",
         "Exclusivity_Code": "PED",
@@ -14872,6 +12016,13 @@
         "Appl_No": "215110",
         "Product_No": "001",
         "Exclusivity_Code": "PED",
+        "Exclusivity_Date": "Mar 26, 2023"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215110",
+        "Product_No": "001",
+        "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Oct 10, 2023"
     },
     {
@@ -14880,13 +12031,6 @@
         "Product_No": "001",
         "Exclusivity_Code": "PED",
         "Exclusivity_Date": "Feb 3, 2023"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "215110",
-        "Product_No": "001",
-        "Exclusivity_Code": "PED",
-        "Exclusivity_Date": "Mar 26, 2023"
     },
     {
         "Appl_Type": "N",
@@ -14995,10 +12139,66 @@
     },
     {
         "Appl_Type": "N",
+        "Appl_No": "210303",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Jun 25, 2028"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "211109",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Aug 27, 2028"
+    },
+    {
+        "Appl_Type": "N",
         "Appl_No": "209363",
         "Product_No": "001",
         "Exclusivity_Code": "GAIN",
         "Exclusivity_Date": "Sep 15, 2027"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "209816",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Oct 2, 2028"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "209817",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Oct 2, 2028"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "207356",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Sep 28, 2030"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "212862",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Aug 14, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "211673",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Aug 19, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "211672",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Aug 19, 2029"
     },
     {
         "Appl_Type": "N",
@@ -15037,83 +12237,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "210303",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Jun 25, 2028"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211109",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Aug 27, 2028"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209816",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Oct 2, 2028"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209817",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Oct 2, 2028"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "207356",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Sep 28, 2030"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "209445",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Nov 14, 2029"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "212862",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Aug 14, 2029"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211673",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Aug 19, 2029"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "211672",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Aug 19, 2029"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "214900",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Jun 1, 2031"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "214155",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Aug 6, 2024"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "210910",
         "Product_No": "001",
         "Exclusivity_Code": "GAIN",
@@ -15125,6 +12248,13 @@
         "Product_No": "002",
         "Exclusivity_Code": "GAIN",
         "Exclusivity_Date": "Aug 27, 2028"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215650",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Dec 7, 2029"
     },
     {
         "Appl_Type": "N",
@@ -15142,20 +12272,6 @@
     },
     {
         "Appl_Type": "N",
-        "Appl_No": "215888",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Apr 26, 2032"
-    },
-    {
-        "Appl_Type": "N",
-        "Appl_No": "215650",
-        "Product_No": "001",
-        "Exclusivity_Code": "GAIN",
-        "Exclusivity_Date": "Dec 7, 2029"
-    },
-    {
-        "Appl_Type": "N",
         "Appl_No": "215152",
         "Product_No": "001",
         "Exclusivity_Code": "GAIN",
@@ -15167,5 +12283,33 @@
         "Product_No": "001",
         "Exclusivity_Code": "GAIN",
         "Exclusivity_Date": "May 3, 2032"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "215888",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Apr 26, 2032"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "214155",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Aug 6, 2024"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "209445",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Nov 14, 2029"
+    },
+    {
+        "Appl_Type": "N",
+        "Appl_No": "214900",
+        "Product_No": "001",
+        "Exclusivity_Code": "GAIN",
+        "Exclusivity_Date": "Jun 1, 2031"
     }
 ]
