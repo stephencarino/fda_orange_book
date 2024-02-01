@@ -1,15 +1,16 @@
 The enclosed lists are in tab-delimited text format.
 
-Choose Open->Text files to read the files in Excel 2007, 2010 or 2013 (US ASCII).
+Choose Open->Text files to read the files in Excel (UTF-8, Text).
+
 
 
 UNII Records File
 
 UNII		Unique Ingredient Identifier - a non-proprietary, free, unique, unambiguous, nonsemantic, alphanumeric identifier based on a substance's molecular structure and/or descriptive information.	http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/default.html
 
-PT		Preferred Term - Preferred Substance Name - display name
+Display Name	Preferred Term - Preferred Substance Name - display name
 
-RN		Registry Number used by many public chemical information systems
+RN		Registry Number used by many public chemical information systems particularly CAS Common Chemistry	https://commonchemistry.cas.org/
 
 EC		European Chemicals Agency registry number (formerly known EINECS)	https://echa.europa.eu/information-on-chemicals
 
@@ -17,19 +18,24 @@ NCIT		NCI Thesaurus Concept Code	https://ncit.nci.nih.gov/ncitbrowser/
 
 RXCUI		RXNORM Ingredient Concept Code	https://www.nlm.nih.gov/research/umls/rxnorm/
 
-PUBCHEM		PubChem Compound ID 		https://pubchem.ncbi.nlm.nih.gov/           
+PUBCHEM		PubChem Compound ID 	https://pubchem.ncbi.nlm.nih.gov/
+
+EPA_CompTox	EPA  Substance ID	https://comptox.epa.gov/dashboard/	
+
+CATALOGUE_OF_LIFE	Catalogue of Life organism ID		https://www.catalogueoflife.org/          
 
 ITIS		Integrated Taxonomic Information System Taxonomic Serial Number (ITIS TSN)	https://www.itis.gov/
 
 NCBI		NCBI taxonomy organism ID	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Root
 
-PLANTS		USDA PLANTS organism ID		https://plants.usda.gov/java/
+PLANTS		USDA PLANTS organism ID		https://plants.usda.gov/home
 
 GRIN		USDA Agricultural Research Service Germplasm Resources Information Network (GRIN) nomen ID	https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomysearch.aspx
 
-MPNS		Kew Gardens Medicinal Plants Name Service Record ID (includes source database prefix)	http://mpns.kew.org/mpns-portal/
+MPNS		Kew Gardens Medicinal Plants Name Service Record ID (includes source database prefix)	https://mpns.science.kew.org/mpns-portal/
 
-INN_ID		Sequential number assigned by World Health Organization's International Nonproprietary Name (INN) Programme http://www.who.int/medicines/services/inn/en/
+INN_ID		Sequential number assigned by World Health Organization's International Nonproprietary Name (INN) Programme 
+		https://www.who.int/teams/health-product-and-policy-standards/inn/
 
 USAN_ID		Alphanumeric code used by American Medical Association’s United States Adopted Names (USAN) Council https://www.ama-assn.org/about/united-states-adopted-names/usan-council
 
@@ -45,11 +51,13 @@ INGREDIENT_TYPE	UNII grouping based on intended role: Ionic Moiety, Ingredient S
 		Unspecified Ingredient UNIIs are imprecise. More precise Ingredient Substance UNIIs should be used instead.
 		Specified Substance UNIIs are assigned to formulations or specific physical forms of a substance (ISO 11238).
 		
-UUID		The FDA-SRS record ID
-
 SUBSTANCE_TYPE	The ISO 11238 substance type used for the primary substance identity
 
+UUID		The FDA-SRS record ID
+
 DAILYMED	UNIIs known to be associated with regulated product listings on DailyMed	https://dailymed.nlm.nih.gov/dailymed/
+
+
 
 UNII Names File
 
